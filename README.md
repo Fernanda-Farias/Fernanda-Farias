@@ -1,9 +1,10 @@
 ### Hello World! ✨
 
-- 📖Estudante do curso Técnico em Informática pelo Instituto Federal do Piauí
+- 🎓Técnica em Informática pelo Instituto Federal do Piauí
+- 📖Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí
 - 💻Apaixonada por tecnologia
 - 🌸Membro das Pyladies Parnaíba
-- 🎶Gosto de música e uma boa leitura 
+- 🎶Vivendo de música e uma boa leitura 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
