@@ -19,6 +19,7 @@
           
 <div/>  
 <p> 
+![Snake animation](https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/github-contribution-grid-snake.svg)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical)
 
