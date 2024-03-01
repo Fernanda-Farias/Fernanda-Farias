@@ -19,7 +19,6 @@
           
 <div/>  
 <p> 
-![Snake animation](https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/github-contribution-grid-snake.svg)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical)
 
@@ -29,3 +28,5 @@
  <a href="https://discord.com/users/rodrigaogostosao#5229" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "contato.ffarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>  
+
+![Snake animation](https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/github-contribution-grid-snake.svg)
