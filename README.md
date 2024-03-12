@@ -19,15 +19,10 @@
 <div/>  
   
 <p> 
-![Anurag's GitHub stats]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical)
 </p> 
 
-<div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true" />
-    </picture>
-</div>
+
 
 
 <div> 
