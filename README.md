@@ -17,12 +17,14 @@
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>      
 <div/>  
-  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&&theme=radical&locale=en" alt="Fernanda-Farias" /></p>
-
-
-
+<div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical&locale=en" alt="Fernanda-Farias" style="height: 200px;" />
+    </picture>
+</div>
 
 <div> 
  <a href="https://instagram.com/fehfariasz_?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
