@@ -18,10 +18,8 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>      
 <div/>  
   
-<p> 
-![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical")
-</p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&locale=en" alt="Fernanda-Farias" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&&theme=radical&locale=en" alt="Fernanda-Farias" /></p>
 
 
 
