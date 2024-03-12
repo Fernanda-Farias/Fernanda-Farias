@@ -21,6 +21,7 @@
 <p> 
 ![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=radical")
 </p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&locale=en" alt="Fernanda-Farias" /></p>
 
 
 
