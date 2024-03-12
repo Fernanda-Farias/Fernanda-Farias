@@ -24,9 +24,33 @@
 
 </p>  
 <div> 
-  <a href="https://instagram.com/fehfariasz_?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/fehfariasz_?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/rodrigaogostosao#5229" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "contato.ffarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>  
 
-![Snake animation](https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/github-contribution-grid-snake-dark.svg)
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Fernanda-Farias&show_icons=true&theme=dracula&locale=en&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Fernanda-Farias&show_icons=true&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernanda-Farias&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
+    </picture>
+  </div>
+
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=dracula&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Farias&show_icons=true&theme=dracula&locale=en" alt="otavio-sousa" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Fernanda-Farias/Fernanda-Farias/blob/output/ocean.gif" />
+  </picture>
+</div>
