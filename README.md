@@ -2,8 +2,8 @@
   
 ### Hello World! ✨
 
-Sou apaixonada por transformar dados em soluções e tecnologia em resultados reais.
-Analista e Cientista de Dados, sempre em busca de aprender, evoluir e gerar impacto com o que construo.
+Sou apaixonada por transformar dados em soluções e tecnologia em resultados reais.<br>
+Analista e Cientista de Dados, sempre em busca de aprender, evoluir e gerar impacto com o que construo.<br>
 Dados não são apenas números: são respostas, resultados e histórias.
 
 - 🎓Técnica em Informática - Instituto Federal do Piauí
