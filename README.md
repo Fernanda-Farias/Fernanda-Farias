@@ -13,22 +13,23 @@ Dados não são apenas números: são respostas, resultados e histórias.
 - 🌸Membro das Pyladies Parnaíba
 - 🎶Vivendo de música e uma boa leitura 
 
-  <!-- Tecnologias -->
-<div style="display: inline_block"><br>
-  <!-- Data stack -->
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
-  <img align="center" alt="Looker Studio" height="30" width="40" src="https://img.icons8.com/color/48/google-data-studio.png"/>
-  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img align="center" alt="Power Query" height="30" width="40" src="https://img.icons8.com/color/48/data-configuration.png"/>
-
-  <!-- Relacionados -->
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<div/>  
+<!-- Tecnologias -->
+<table>
+  <tr>
+    <td align="center"><img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></td>
+    <td align="center"><img alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></td>
+    <td align="center"><img alt="Power BI" height="50" width="60" src="https://img.icons8.com/color/48/power-bi.png"/></td>
+    <td align="center"><img alt="Looker Studio" height="50" width="60" src="https://img.icons8.com/color/48/google-data-studio.png"/></td>
+    <td align="center"><img alt="Excel" height="50" width="60" src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Power Query" height="50" width="60" src="https://img.icons8.com/color/48/data-configuration.png"/></td>
+    <td align="center"><img alt="Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/></td>
+    <td align="center"><img alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/></td>
+    <td align="center"><img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></td>
+    <td align="center"><img alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></td>
+  </tr>
+</table>
 
 <!-- Tema -->
 <p>
